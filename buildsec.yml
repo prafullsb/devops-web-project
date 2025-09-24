@@ -21,4 +21,6 @@ phases:
 artifacts:
   files:
     - target/*.war
+    - appsec.yml
+    - scripts/**/*    
   discard-paths: no
